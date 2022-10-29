@@ -1,6 +1,7 @@
 # Digital Elevation Models (DEMs) dataset
 
 
+
 ## Format
 
 The various DEMs are delivered in **Esri ASCII** format with a certain amount of metadata in the header and the elevations in raster form. A didactic example displaying the structure of this specific format on a 10x10 grid is shown below:
@@ -187,3 +188,7 @@ The different unprocessed DEMs of the dataset are illustrated below with $i \in 
 [1] GEBCO Bathymetric Compilation Group, 2022. The GEBCO 2022 grid - a continuous terrain model of the global oceans and land. doi:10.5285/e0f0bb80-ab44-2739-e053-6c86abc0289c.
 
 [2] He, L., Ren, X., Gao, Q., Zhao, X., Yao, B., Chao, Y., 2017. The connected-component labeling problem: A review of state-of-the-art algorithms. Pattern Recognition 70, 25–43. doi:10.1016/j.patcog.2017.04.018.
+
+## License
+
+This project is under MIT license. Please see the [LICENSE](LICENSE) file for more information.
