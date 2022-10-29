@@ -1,6 +1,16 @@
 # Digital Elevation Models (DEMs) dataset
 
 
+## Format
+
+## Pre-processing
+
+In a first folder named "unprocessed_DEMs", the DEMs are provided without pre-processing, with the raw data from GEBCO. 
+
+On the other hand, in the folder named "processed_DEMs", the instances have been pre-processed to locate the isolated maritime cells (elevation less than or equal to 0) in the middle of terrestrial cells (e.g. lakes or ponds) and to assign them an arbitrary elevation (9999 in this case) to facilitate the use of these instances in practical cases. This pre-processing was done by transforming the set of maritime cells of the grid into a graph and by subsequently carrying out a computation of the connected components (see He et al. [2] for more details). More precisely, each maritime cell is considered as a vertex and is connected by an edge with its 4 neighboring cells (west, east, south and north) if these are also maritime cells. Some might also have considered diagonal cells (northwest, northeast, southwest and southeast) as an alternative implementation choice. Finally, the largest major component is then retained as the maritime area of interest while the smaller ones are artificially "filled in".
+
+In both cases, the files are named "*width_height_m.asc*" where $m \in \mathbb{N}$ is the number of effective maritime cells.
+
 ## Visualisations
 
 The different unprocessed DEMs of the dataset are illustrated below with $i \in \mathbb{N}$ the number of isolated maritime cells, if any.
