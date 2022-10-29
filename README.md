@@ -1,1 +1,1 @@
-# Digital Elevation Model (DEM) datasets
+# Digital Elevation Models (DEMs) datasets
