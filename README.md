@@ -1,8 +1,8 @@
 # Digital Elevation Models (DEMs) dataset
 
-A Digital Elevation Model (DEM) is a representation of the topography of a given Area of Interest (AoI) using bathymetrics and/or altimetrics data. 
+A Digital Elevation Model (DEM) is a representation of the topography of a given Area of Interest (AoI) using bathymetrics and/or land data. 
 
-Herein, a dataset of 27 DEMs based on elevations data provided by GEBCO [1] has been compiled and made available. These DEMs of variable size are derived from squared maritime AoIs that have been carefully selected so as to encompass a wide spectrum of different geometric situations (see *Visualisations* section).
+As part of a research project, a dataset of 27 DEMs based on elevations data provided by GEBCO [1] has been compiled and made available herein. These DEMs of variable size are derived from squared maritime AoIs that have been carefully selected so as to encompass a wide spectrum of different geometric situations (see *Visualisations* section).
 
 ## Format
 
