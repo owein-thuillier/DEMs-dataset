@@ -97,7 +97,7 @@ The different unprocessed DEMs of the dataset are illustrated below with $i \in 
 
 ![50_50_937](https://github.com/owein-thuillier/DEMs-dataset/blob/main/visualisations/50_50_937.PNG)
 
-#### $m = 1455$
+#### $m = 1455$; $i = 1$
 
 ![50_50_1455](https://github.com/owein-thuillier/DEMs-dataset/blob/main/visualisations/50_50_1455.PNG)
 
