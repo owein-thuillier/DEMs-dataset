@@ -47,15 +47,15 @@ The different unprocessed DEMs of the dataset are illustrated below with $i \in 
 
 #### $m = 105$
 
-![15_15_105](https://github.com/owein-thuillier/DEMs-dataset/blob/main/visualisations/15_15_105.PNG)
+![15_15_105](https://github.com/owein-thuillier/DEMs-dataset/blob/main/images/15_15_105.PNG)
 
 #### $m = 125$
 
-![15_15_125](https://github.com/owein-thuillier/DEMs-dataset/blob/main/visualisations/15_15_125.PNG)
+![15_15_125](https://github.com/owein-thuillier/DEMs-dataset/blob/main/images/15_15_125.PNG)
 
 #### $m = 146$
 
-![15_15_146](https://github.com/owein-thuillier/DEMs-dataset/blob/main/visualisations/15_15_146.PNG)
+![15_15_146](https://github.com/owein-thuillier/DEMs-dataset/blob/main/images/15_15_146.PNG)
 
 ### $20 \times 20$
 
@@ -63,15 +63,15 @@ The different unprocessed DEMs of the dataset are illustrated below with $i \in 
 
 #### $m = 187$
 
-![20_20_187](https://github.com/owein-thuillier/DEMs-dataset/blob/main/visualisations/20_20_187.PNG)
+![20_20_187](https://github.com/owein-thuillier/DEMs-dataset/blob/main/images/20_20_187.PNG)
 
 #### $m = 234$
 
-![20_20_234](https://github.com/owein-thuillier/DEMs-dataset/blob/main/visualisations/20_20_234.PNG)
+![20_20_234](https://github.com/owein-thuillier/DEMs-dataset/blob/main/images/20_20_234.PNG)
 
 #### $m = 291$
 
-![20_20_291](https://github.com/owein-thuillier/DEMs-dataset/blob/main/visualisations/20_20_291.PNG)
+![20_20_291](https://github.com/owein-thuillier/DEMs-dataset/blob/main/images/20_20_291.PNG)
 
 ### $25 \times 25$
 
@@ -79,15 +79,15 @@ The different unprocessed DEMs of the dataset are illustrated below with $i \in 
 
 #### $m = 336$
 
-![25_25_336](https://github.com/owein-thuillier/DEMs-dataset/blob/main/visualisations/25_25_336.PNG)
+![25_25_336](https://github.com/owein-thuillier/DEMs-dataset/blob/main/images/25_25_336.PNG)
 
 #### $m = 419$
 
-![25_25_419](https://github.com/owein-thuillier/DEMs-dataset/blob/main/visualisations/25_25_419.PNG)
+![25_25_419](https://github.com/owein-thuillier/DEMs-dataset/blob/main/images/25_25_419.PNG)
 
 #### $m = 542$
 
-![25_25_542](https://github.com/owein-thuillier/DEMs-dataset/blob/main/visualisations/25_25_542.PNG)
+![25_25_542](https://github.com/owein-thuillier/DEMs-dataset/blob/main/images/25_25_542.PNG)
 
 ### $50 \times 50$
 
@@ -95,15 +95,15 @@ The different unprocessed DEMs of the dataset are illustrated below with $i \in 
 
 #### $m = 937$
 
-![50_50_937](https://github.com/owein-thuillier/DEMs-dataset/blob/main/visualisations/50_50_937.PNG)
+![50_50_937](https://github.com/owein-thuillier/DEMs-dataset/blob/main/images/50_50_937.PNG)
 
 #### $m = 1455$; $i = 1$
 
-![50_50_1455](https://github.com/owein-thuillier/DEMs-dataset/blob/main/visualisations/50_50_1455.PNG)
+![50_50_1455](https://github.com/owein-thuillier/DEMs-dataset/blob/main/images/50_50_1455.PNG)
 
 #### $m = 2304$
 
-![50_50_2304](https://github.com/owein-thuillier/DEMs-dataset/blob/main/visualisations/50_50_2304.PNG)
+![50_50_2304](https://github.com/owein-thuillier/DEMs-dataset/blob/main/images/50_50_2304.PNG)
 
 ### $75 \times 75$
 
@@ -111,15 +111,15 @@ The different unprocessed DEMs of the dataset are illustrated below with $i \in 
 
 #### $m = 3090$; $i = 7$
 
-![75_75_3083](https://github.com/owein-thuillier/DEMs-dataset/blob/main/visualisations/75_75_3083.PNG)
+![75_75_3083](https://github.com/owein-thuillier/DEMs-dataset/blob/main/images/75_75_3083.PNG)
 
 #### $m = 4283$; $i = 1$
 
-![75_75_4283](https://github.com/owein-thuillier/DEMs-dataset/blob/main/visualisations/75_75_4283.PNG)
+![75_75_4283](https://github.com/owein-thuillier/DEMs-dataset/blob/main/images/75_75_4283.PNG)
 
 #### $m = 5343$
 
-![75_75_5343](https://github.com/owein-thuillier/DEMs-dataset/blob/main/visualisations/75_75_5343.PNG)
+![75_75_5343](https://github.com/owein-thuillier/DEMs-dataset/blob/main/images/75_75_5343.PNG)
 
 ### $100 \times 100$
 
@@ -127,15 +127,15 @@ The different unprocessed DEMs of the dataset are illustrated below with $i \in 
 
 #### $m = 6361$; $i = 1$
 
-![100_100_6361](https://github.com/owein-thuillier/DEMs-dataset/blob/main/visualisations/100_100_6361.PNG)
+![100_100_6361](https://github.com/owein-thuillier/DEMs-dataset/blob/main/images/100_100_6361.PNG)
 
 #### $m = 7527$; $i = 3$
 
-![100_100_7527](https://github.com/owein-thuillier/DEMs-dataset/blob/main/visualisations/100_100_7527.PNG)
+![100_100_7527](https://github.com/owein-thuillier/DEMs-dataset/blob/main/images/100_100_7527.PNG)
 
 #### $m = 8947$
 
-![100_100_8947](https://github.com/owein-thuillier/DEMs-dataset/blob/main/visualisations/100_100_8947.PNG)
+![100_100_8947](https://github.com/owein-thuillier/DEMs-dataset/blob/main/images/100_100_8947.PNG)
 
 ### $125 \times 125$
 
@@ -143,15 +143,15 @@ The different unprocessed DEMs of the dataset are illustrated below with $i \in 
 
 #### $m = 10506$; $i = 16$
 
-![125_125_10506](https://github.com/owein-thuillier/DEMs-dataset/blob/main/visualisations/125_125_10506.PNG)
+![125_125_10506](https://github.com/owein-thuillier/DEMs-dataset/blob/main/images/125_125_10506.PNG)
 
 #### $m = 12224$
 
-![125_125_12224](https://github.com/owein-thuillier/DEMs-dataset/blob/main/visualisations/125_125_12224.PNG)
+![125_125_12224](https://github.com/owein-thuillier/DEMs-dataset/blob/main/images/125_125_12224.PNG)
 
 #### $m = 14239$
 
-![125_125_14239](https://github.com/owein-thuillier/DEMs-dataset/blob/main/visualisations/125_125_14239.PNG)
+![125_125_14239](https://github.com/owein-thuillier/DEMs-dataset/blob/main/images/125_125_14239.PNG)
 
 ### $150 \times 150$
 
@@ -159,15 +159,15 @@ The different unprocessed DEMs of the dataset are illustrated below with $i \in 
 
 #### $m = 15525$
 
-![150_150_15525](https://github.com/owein-thuillier/DEMs-dataset/blob/main/visualisations/150_150_15525.PNG)
+![150_150_15525](https://github.com/owein-thuillier/DEMs-dataset/blob/main/images/150_150_15525.PNG)
 
 #### $m = 17036$; $i = 10$
 
-![150_150_17036](https://github.com/owein-thuillier/DEMs-dataset/blob/main/visualisations/150_150_17036.PNG)
+![150_150_17036](https://github.com/owein-thuillier/DEMs-dataset/blob/main/images/150_150_17036.PNG)
 
 #### $m = 18948$
 
-![150_150_18948](https://github.com/owein-thuillier/DEMs-dataset/blob/main/visualisations/150_150_18948.PNG)
+![150_150_18948](https://github.com/owein-thuillier/DEMs-dataset/blob/main/images/150_150_18948.PNG)
 
 ### $175 \times 175$
 
@@ -175,15 +175,15 @@ The different unprocessed DEMs of the dataset are illustrated below with $i \in 
 
 #### $m = 20684$; $i = 9$
 
-![175_175_20684](https://github.com/owein-thuillier/DEMs-dataset/blob/main/visualisations/175_175_20684.PNG)
+![175_175_20684](https://github.com/owein-thuillier/DEMs-dataset/blob/main/images/175_175_20684.PNG)
 
 #### $m = 24196$; $i = 17$
 
-![175_175_24196](https://github.com/owein-thuillier/DEMs-dataset/blob/main/visualisations/175_175_24196.PNG)
+![175_175_24196](https://github.com/owein-thuillier/DEMs-dataset/blob/main/images/175_175_24196.PNG)
 
 #### $m = 26443$
 
-![175_175_26443](https://github.com/owein-thuillier/DEMs-dataset/blob/main/visualisations/175_175_26443.PNG)
+![175_175_26443](https://github.com/owein-thuillier/DEMs-dataset/blob/main/images/175_175_26443.PNG)
 
 ## References
 
